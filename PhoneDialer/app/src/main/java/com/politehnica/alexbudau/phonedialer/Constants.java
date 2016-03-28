@@ -18,5 +18,4 @@ public class Constants {
             R.id.button9
     };
 
-    public final static int alex = 10;
 }
