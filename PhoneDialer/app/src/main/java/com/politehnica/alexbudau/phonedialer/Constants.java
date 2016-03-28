@@ -16,6 +16,14 @@ public class Constants {
             R.id.button7,
             R.id.button8,
             R.id.button9
-    };
+        };
+
+    public final static String PHONE_NUMBER_EXTRA = "PHONE_NUMBER";
+
+    public final static int CONTACTS_MANAGER_REQ_CODE = 1;
+
+    public final static String EVERY_THING_OK = "Everything was OK";
+
+    public final static String CANCELLED = "Cancelled";
 
 }
